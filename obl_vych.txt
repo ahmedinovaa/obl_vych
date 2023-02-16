@@ -1,5 +1,4 @@
-Имя: Аружан 
-Фамилия:Ахмединова
-Год рождения:2004
-Группа: ИС-20-12Б
-Дата и время: 16.02.2023 20:28
+FIO: Akhmedinova Aruzhan Meiramovna
+Age: 18
+speciality: Information Systems
+date and time: 16.02.2023 20:39
